@@ -14,61 +14,20 @@
 
 ## Connect with me
 
-- 💼 LinkedIn: [Profile](insert_link_here)
-- 🌐   Website: [Portfolio](insert_link_here)
+- 💼 LinkedIn: [Profile](https://www.linkedin.com/in/anand-krishnan-mj-a6332b154/)
+- 🌐 Website: [Portfolio](https://www.akmj.social/)
 
 ## Languages and Tools
 
 Here are the professional languages and tools I'm proficient with:
 
-### Programming Languages
+<p align="left"> 
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?export=view&id=1CilgbbC7VGWLjQo8GtReyW2Jp5q6jOt9" alt="webpack" width="50" height="50"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?export=view&id=1TfEMneBumjn_PUMS7eNPFY0V0OvOErCS" alt="webpack" width="40" height="40"/> </a> <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://drive.google.com/uc?export=view&id=10r1o6B2mN_o-X8oEPsJLdfYb0ox6dikV" alt="webpack" width="40" height="40"/> </a>
+</p>
 
-- [Language 1] ![Language 1 Icon](insert_icon_url_here)
-- [Language 2] ![Language 2 Icon](insert_icon_url_here)
-- [Language 3] ![Language 3 Icon](insert_icon_url_here)
 
-### Frameworks and Libraries
 
-- [Framework/Library 1] ![Framework/Library 1 Icon](insert_icon_url_here)
-- [Framework/Library 2] ![Framework/Library 2 Icon](insert_icon_url_here)
-- [Framework/Library 3] ![Framework/Library 3 Icon](insert_icon_url_here)
 
-### Databases
-
-- [Database 1] ![Database 1 Icon](insert_icon_url_here)
-- [Database 2] ![Database 2 Icon](insert_icon_url_here)
-- [Database 3] ![Database 3 Icon](insert_icon_url_here)
-
-### Tools
-
-- [Tool 1] ![Tool 1 Icon](insert_icon_url_here)
-- [Tool 2] ![Tool 2 Icon](insert_icon_url_here)
-- [Tool 3] ![Tool 3 Icon](insert_icon_url_here)
-
-## Projects
-
-Take a look at some of the professional projects I've worked on:
-
-1. [Project 1](insert_project_link_here)
-   - Description: A project focused on [briefly describe the project].
-   - Technologies Used: [List the professional technologies involved].
-
-2. [Project 2](insert_project_link_here)
-   - Description: Another project that [briefly describe the project's objective].
-   - Technologies Used: [List the technical tools and technologies used].
-
-3. [Project 3](insert_project_link_here)
-   - Description: A project designed to [briefly describe the project's purpose].
-   - Technologies Used: [List the technologies and tools applied].
-
-Feel free to explore these projects, and let's discuss potential collaborations or improvements.
-
-## Connect with Me
-
-I'm open to connecting and discussing technology and professional collaboration. Reach out to me through the following platforms:
-
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](insert_link_here)
-- [Email](mailto:youremail@example.com)
 
 Looking forward to connecting with fellow professionals in the tech world!
