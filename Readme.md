@@ -30,5 +30,5 @@ Looking forward to connecting with fellow professionals in the tech world!
 
 <p>
 <a href="https://drive.google.com/drive/folders/1JJTGcnay_bQU65VoMZ6chucMXEyZrmT3?usp=drive_link" target="_blank" rel="noreferrer">This is where I keep my learning notes, so that I can access them from anywhere at anytime even with just a smartphone.</a> 
-Feel free to check them out
 </p>
+<p>Feel free to check them out!!!</p>
