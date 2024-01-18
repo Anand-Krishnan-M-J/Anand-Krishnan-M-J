@@ -3,14 +3,13 @@
 
 - 🔭 I’m currently working on [A multiplayer harry potter themed 3D - chess game](https://github.com/Anand-Krishnan-M-J/Wizards-Chess)
 
-- 🌱 I’m currently learning **Vue.js, Jenkins & AWS ecosystem**
-
 - 💬 Ask me about **React, Next, JavaScript and TypeScript**
 
 - 📫 How to reach me **anandkrishmj@gmail.com**
 
 - ⚡ Fun fact: **I can't resist the allure of a new side project, often starting one before finishing the current. Exploring new ideas is my cosmic adventure! 🚀🌌**
 
+- 🌱 I’m currently learning **Golang & React Native**
 
 ## Connect with me
 
