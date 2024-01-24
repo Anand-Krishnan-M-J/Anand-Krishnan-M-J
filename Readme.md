@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [A multiplayer harry potter themed 3D - chess game](https://github.com/Anand-Krishnan-M-J/Wizards-Chess)
 
-- 💬 Ask me about **React, Next, JavaScript and TypeScript**
+- 💬 Ask me about **React, Next, JavaScript, Node, Express and TypeScript**
 
 - 📫 How to reach me **anandkrishmj@gmail.com**
 
