@@ -14,7 +14,7 @@
 ## Connect with me
 
 - 💼 LinkedIn: [Profile](https://www.linkedin.com/in/anand-krishnan-mj-a6332b154/)
-- 🌐 Website: [Portfolio](https://www.akmj.social/)
+- 🌐 Website: [Portfolio](https://www.anandkris.com/)
 
 ## Languages and Tools
 
