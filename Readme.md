@@ -38,12 +38,12 @@ Here are the professional languages and tools I'm proficient with:
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="65" height="65" />
-      <br>TypeScript
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="ThreeJS" />
+      <br>ThreeJS
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
-      <br>JavaScript(ES6+)
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="65" height="65" />
+      <br>TypeScript
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
@@ -103,16 +103,16 @@ Here are the professional languages and tools I'm proficient with:
       <br>CSS
     </td>
     <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
+      <br>JavaScript(ES6+)
+    </td>
+    <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
       <br>Sass
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
       <br>Storybook
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="ThreeJS" />
-      <br>ThreeJS
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" />
