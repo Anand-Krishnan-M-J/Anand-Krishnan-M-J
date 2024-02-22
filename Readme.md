@@ -58,6 +58,8 @@ Here are the professional languages and tools I'm proficient with:
       <br>Node
       </td>
     </td>
+  </tr>
+  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
@@ -66,8 +68,6 @@ Here are the professional languages and tools I'm proficient with:
         <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="githubactions" />
       <br>Github actions
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
       <br>NGINX
@@ -92,6 +92,8 @@ Here are the professional languages and tools I'm proficient with:
         <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="materialui" />
       <br>Material UI
     </td>
+  </tr>
+ <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -108,8 +110,6 @@ Here are the professional languages and tools I'm proficient with:
         <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="icon" width="65" height="65" />
       <br>Storybook
     </td>
-  </tr>
- <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="ThreeJS" />
       <br>ThreeJS
@@ -126,6 +126,8 @@ Here are the professional languages and tools I'm proficient with:
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
       <br>Jenkins
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
       <br>vercel
