@@ -29,20 +29,20 @@ Here are the professional languages and tools I'm proficient with:
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="https://skillicons.dev/icons?i=next" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=next" alt="next" width="65" height="65" />
       </a>
       <br>Next
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="65" height="65" />
       <br>Redux
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="ts" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="65" height="65" />
       <br>JavaScript(ES6+)
     </td>
     <td align="center" width="96">
@@ -59,7 +59,7 @@ Here are the professional languages and tools I'm proficient with:
       </td>
     </td>
     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
     </td>
     <td align="center"  width="96">
@@ -111,7 +111,7 @@ Here are the professional languages and tools I'm proficient with:
   </tr>
  <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="ThreeJS" />
       <br>ThreeJS
     </td>
     <td align="center" width="96">
@@ -139,7 +139,7 @@ Here are the professional languages and tools I'm proficient with:
       <br>VsCode
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="VsCode" />
+        <img src="https://skillicons.dev/icons?i=blender" width="48" height="48" alt="blender" />
       <br>Blender
     </td>
     <td align="center" width="96">
