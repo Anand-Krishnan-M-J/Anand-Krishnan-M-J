@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I can't resist the allure of a new side project, often starting one before finishing the current. Exploring new ideas is my cosmic adventure! 🚀🌌**
 
-- 🌱 I’m currently learning **Golang & React Native**
+- 🌱 I’m currently learning **Python & React Native**
 
 ## Connect with me
 
