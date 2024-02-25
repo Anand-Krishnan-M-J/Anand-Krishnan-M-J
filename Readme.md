@@ -157,7 +157,7 @@ Here are the professional languages and tools I'm proficient with:
  <br><br>
 </div>
 
-## Preview of an upcoming 3D multiplayer chess game with a Harry Potter theme in development.
+## Some cool things I've built.
 <a href="https://www.chess.anandkris.com">Click here to try it out</a>
 
 
