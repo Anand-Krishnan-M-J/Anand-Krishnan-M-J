@@ -64,10 +64,6 @@ Here are the professional languages and tools I'm proficient with:
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="githubactions" />
-      <br>Github actions
-    </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" />
       <br>NGINX
@@ -132,6 +128,10 @@ Here are the professional languages and tools I'm proficient with:
     </td>
   </tr>
   <tr>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="githubactions" />
+      <br>Github actions
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="vercel" />
       <br>vercel
