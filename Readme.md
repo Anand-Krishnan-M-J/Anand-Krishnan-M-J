@@ -161,11 +161,14 @@ Here are the professional languages and tools I'm proficient with:
  <br><br>
 </div>
 
-## Some cool things I've built.
-<a href="https://www.chess.anandkris.com">Click here to try it out</a>
-
+## Some Personal projects I've built from ground-up.
+<h3>3D Online Multiplayer Chess Game based on the Harry potter Wizard's chess theme</h3>
+<a href="https://www.chess.anandkris.com" target="_blank">Visit Application</a>
+<br/><br/><br/>
 
 https://github.com/Anand-Krishnan-M-J/Anand-Krishnan-M-J/assets/87609792/a7e2bfa7-6abd-4bd0-aeed-8b43528db3b0
+
+<br/>
 
 Looking forward to connecting with fellow professionals in the tech world!
 
@@ -173,3 +176,5 @@ Looking forward to connecting with fellow professionals in the tech world!
 <a href="https://drive.google.com/drive/folders/1JJTGcnay_bQU65VoMZ6chucMXEyZrmT3?usp=drive_link" target="_blank" rel="noreferrer">This is where I keep my learning notes, so that I can access them from anywhere at anytime even with just a smartphone.</a> 
 </p>
 <p>Feel free to check them out!!!</p>
+<br/><br/><br/>
+<br/><br/><br/>
