@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anand Krishnan M J</h1>
 <h3 align="center">Software Engineer working with JavaScript and constantly learning others</h3>
 
-- 🔭 Apart from my full-time job, I’m currently working on [A multiplayer harry potter themed 3D - chess game](https://github.com/Anand-Krishnan-M-J/Wizards-Chess)
+- 🔭 Apart from my full-time job, I’m currently working on an [open source project - twenty ](https://github.com/twentyhq/twenty)  and  [a hobby project - Wizard's chess](https://github.com/Anand-Krishnan-M-J/Wizards-Chess)
 
 - 💬 Ask me about **React, Next, JavaScript, Node, Express and TypeScript**
 
