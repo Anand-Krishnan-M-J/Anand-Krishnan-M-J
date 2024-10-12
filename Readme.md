@@ -57,13 +57,12 @@ Here are the professional languages and tools I'm proficient with:
         <img src="https://skillicons.dev/icons?i=express" alt="icon" width="65" height="65" />
       <br>Express
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Node
-      </td>
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="postgres" />
       <br>PostgreSQL
@@ -92,12 +91,12 @@ Here are the professional languages and tools I'm proficient with:
         <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="48" height="48" alt="Git" />
       <br>Git
     </td>
+  </tr>
+ <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=materialui" width="48" height="48" alt="materialui" />
       <br>Material UI
     </td>
-  </tr>
- <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -126,12 +125,12 @@ Here are the professional languages and tools I'm proficient with:
         <img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" />
       <br>Testing Library
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="jenkins" />
       <br>Jenkins
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="githubactions" />
       <br>Github actions
