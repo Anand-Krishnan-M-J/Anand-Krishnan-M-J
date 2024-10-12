@@ -37,6 +37,10 @@ Here are the professional languages and tools I'm proficient with:
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="redux" width="65" height="65" />
       <br>Redux
     </td>
+       <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
+      <br>GraphQL
+    </td>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=threejs" width="48" height="48" alt="ThreeJS" />
       <br>ThreeJS
