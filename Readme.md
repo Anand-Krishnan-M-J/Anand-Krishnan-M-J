@@ -165,7 +165,7 @@ Here are the professional languages and tools I'm proficient with:
  <br><br>
 </div>
 
-## Some Personal projects I've built from ground-up.
+## Some Hobby projects I've built from ground-up.
 <h3>3D Online Multiplayer Chess Game based on the Harry potter Wizard's chess theme</h3>
 <a href="https://www.chess.anandkris.com" target="_blank">Visit Application</a>
 <br/><br/><br/>
