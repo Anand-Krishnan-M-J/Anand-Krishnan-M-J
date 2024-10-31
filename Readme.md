@@ -172,8 +172,5 @@ Here are the professional languages and tools I'm proficient with:
 <br/><br/><br/>
 
 Looking forward to connecting with fellow professionals in the tech world!
-
-
-<p>Feel free to check them out!!!</p>
 <br/><br/><br/>
 <br/><br/><br/>
